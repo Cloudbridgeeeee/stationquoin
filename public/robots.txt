@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://stationquoin.top/sitemap.xml
+Sitemap: https://stationquoin.space/sitemap.xml

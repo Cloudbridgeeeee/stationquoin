@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for StationQuoin.
 - Industry: Automotive, Renewable Energy, Machine Learning
 - Founder: Ayodeji Afolabi (Founder & CEO)
 - Co-founder: Solomon Chukwu (Co-founder & CTO)
-- Contact: ayodeji@stationquoin.top
+- Contact: ayodeji@stationquoin.space
 - Business model: Subscriptions per charging location
 
 ## Stack
