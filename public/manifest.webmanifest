@@ -1,0 +1,16 @@
+{
+  "name": "StationQuoin",
+  "short_name": "StationQuoin",
+  "description": "AI charging demand analytics software that helps commercial EV charging operators forecast station utilization and understand peak usage patterns.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06090a",
+  "theme_color": "#06090a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
